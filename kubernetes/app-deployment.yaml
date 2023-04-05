@@ -23,6 +23,6 @@ spec:
         - secretRef:
             name: db-secret
         name: app-deployment
-        image: docker pull harbor.dev.afsmtddso.com/mmonnik-harbor-project/app:971c881-177701d
+        image: harbor.dev.afsmtddso.com/mmonnik-harbor-project/app:971c881-177701d
         ports:
         - containerPort: 5000
