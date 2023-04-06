@@ -1,4 +1,4 @@
---
+-- once I was a comment then I became a command
 -- PostgreSQL database dump
 --
 
